@@ -1,1 +1,1 @@
-module.exports = require('fetch');
+module.exports = require('fetch')
